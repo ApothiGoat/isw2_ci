@@ -7,3 +7,5 @@ def test_sumar():
 
 def test_restar():
     assert restar(5, 3) == 2
+
+#lab05
